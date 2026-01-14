@@ -1,3 +1,3 @@
-mc.reallyworld.ru
-mc.funtime.su
-mc.slimeworld.fun
+mc.reallyworld.ru:2026-05-01
+mc.funtime.su:2026-12-31
+mc.slimeworld.fun:2025-01-10
